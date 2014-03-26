@@ -10,8 +10,6 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-# About me
-
 I am a webdeveloper, currently working as R&D Engineer at Profilsoft, Lille, France. I enjoy building great and beautiful apps, writing simple, tested and straightforward code.
 
 I'm in love with development, and try hard everyday to write code that sucks less. You'll find me around a tea or a good scotch, depending on the hour. 
