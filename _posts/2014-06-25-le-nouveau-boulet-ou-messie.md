@@ -9,6 +9,12 @@ share: true
 published: true
 ---
 
+## TL;DR
+
+J'ai eu le plaisir de participer au PHP Tour 2014 à Lyon, pour parler de ce sujet.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/Do9YWWU5St8" frameborder="0" allowfullscreen></iframe>
+
 ## Disclaimer
 
 Je n'ai pas 10 ans d'expérience, et 25 boites différentes. 
