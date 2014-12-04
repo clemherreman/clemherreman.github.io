@@ -77,7 +77,7 @@ Mon but c'est de dire ici ce que j'aurais aimé que l'on m'ait dit quand j'étai
 ## Conseils
 
 J'aimerais proposer humblement quelques conseils basés sur l'expérience que j'ait eux dans
-ces deux entreprises incroyables que son Wid'op et Luceo.
+ces deux entreprises incroyables que sont Wid'op et Luceo.
 J'ai eu la chance d'être accueilli le mieux du monde, rapidement mis en confiance, poussé
 à donner le meilleur de ce que je sais faire.
 
