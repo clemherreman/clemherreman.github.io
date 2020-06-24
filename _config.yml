@@ -1,6 +1,6 @@
 title:            Code and thoughts
 description:      "Random thoughts, ideas and rants of a humble developer "
-logo:             me.jpg
+logo:             me.png
 disqus_shortname: codeandthoughts
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -9,7 +9,7 @@ url:              http://clemherreman.github.io
 # Owner/author information
 owner:
   name:           Clement Herreman
-  avatar:         me.jpg
+  avatar:         me.png
   email:          clement.herreman@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: clemherreman
